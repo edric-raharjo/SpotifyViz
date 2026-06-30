@@ -2,4 +2,10 @@ pandas
 numpy
 ffmpeg
 zotify
+# python -m pip install git+https://github.com/Googolplexed0/zotify.git
 audioconverter
+sentence-transformers
+bitsandbytes
+accelerate
+faiss-cpu
+pydub
